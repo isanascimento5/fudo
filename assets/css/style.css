@@ -1,0 +1,73 @@
+#login{
+    width: 100px;  /*aumenta a largura*/
+    height: 40px;/*aumenta a altura*/
+    background-color: rgb(243, 47, 47);
+    color: #ffffff;
+    border-radius: 20px;/*torna as bordas redondas*/
+    border: none; /*titar as bordas*/
+   }
+   
+    .abc{
+       background-color: blue;
+    }
+    #navbar{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+    }
+    #banner{
+       height: 500px;
+       width: 500px;
+   
+    }
+    .texto-banner{
+      font-size: 60px;
+      font-weight: bolder;
+    }
+    .caixa-texto{
+       width: 500px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       flex-direction: column;
+    }
+    .caixa-estrutura{
+      display: flex;
+      flex-direction: row;
+    }
+    .titulo{
+      display: flex;
+      align-items: center;
+    }
+    #food{
+        color: rgb(243, 47, 47);
+    }
+    #btn-get{
+        width: 100px;  /*aumenta a largura*/
+    height: 40px;/*aumenta a altura*/
+    background-color: rgb(243, 47, 47);
+    color: #ffffff;
+    border-radius: 20px;/*torna as bordas redondas*/
+    border: none; /*titar as bordas*/
+
+   }
+
+
+   .caixatitulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: #ffffff;
+   }
+
+   .titulo-secundarios{
+    color: rgb(243, 47, 47);
+    font-weight: 500;
+
+   }
+   .titulo-primarios{
+    font-weight: bolder;
+    font-size: 40px;
+   }
