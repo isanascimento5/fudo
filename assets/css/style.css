@@ -147,3 +147,58 @@
    justify-content: center;
    text-align: start;
 }
+
+titulo-principal{
+  color: black;
+  font-weight: 700;  
+}
+
+.rodape{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: start;
+  gap: 1;
+  margin-top: 40px;
+}
+
+.texto-rodape{
+  margin-top: 25px;
+}
+
+.caixa-aviso{
+  width: 250px;
+}
+
+#btn-rodape{
+  width: 170px;
+  height: 40px;
+  border-radius: 60px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 15px;
+  font-weight: 500;
+ 
+ 
+ 
+}
+
+.caixa-geral{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+
+}
+
+.texto-um{
+  color: red;
+  font-weight: 500; 
+}
+
+.texto-dois{
+  color: black;
+  font-weight: bolder;
+  font-size: 40px;
+  width: 450px;
+
+}
